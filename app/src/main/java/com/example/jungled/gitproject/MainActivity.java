@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends ActionBarActivity {
     private TextView text;
+    private TextView text1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
